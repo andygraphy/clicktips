@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.panel-primary {
+    border-color:#FFFFFF;
+	padding:10px;
+}
+
+.panel {
+    margin-bottom: 20px;
+    background-color: rgba(64, 64, 64, 0.0);
+	color:rgba(255,255,255,1.00);
+}
+
+.orange{
+	color:#f88614;
+	}
+
+hr{
+	width:94%;
+	opacity:0.5;}
